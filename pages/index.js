@@ -36,7 +36,7 @@ export default function Home() {
                         })
                     )
                 ) : (
-                    <div>Web3 Currently Not Enabled</div>
+                    <div>You have to connect your wallet😊</div>
                 )}
             </div>
         </div>
